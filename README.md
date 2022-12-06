@@ -1,0 +1,1 @@
+This code attempts to find the material properties, Compliance Matrix and Stiffness Matrix in the global coordinate system for Isotropic materials, Transversely-Isotropic materials and Orthotropic Materials in terms of the material properties given in the material coordinate system. 
